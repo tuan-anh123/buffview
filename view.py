@@ -1,5 +1,5 @@
 #Bản Quyền : Trần Văn Quyết ( Nếu Share Hoặc Bán Vui Lòng Ghi Nguồn )
-import os, requests, time, random, bs4, sys, datetime, re, base64, urllib.parse, threading, cursor
+import os, requests, time
 from pystyle import *
 class Main:
     def __init__(self):
